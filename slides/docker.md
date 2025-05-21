@@ -370,4 +370,4 @@ volumes:
 
 ### Quelques cas d'usage
 #### Microservices
-<img src="https://github.com/dockersamples/example-voting-app/raw/master/architecture.png" style="background:none; border:none; box-shadow:none;" width="70%" />
+<img src="https://github.com/dockersamples/example-voting-app/blob/main/architecture.excalidraw.png" style="background:none; border:none; box-shadow:none;" width="70%" />
